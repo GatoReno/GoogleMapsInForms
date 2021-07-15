@@ -1,12 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "aW2/5NB+TwLSH1l+m5SJj1NeoBhNwS6+LsjX096RuvzvcfleDXkvkfEtbYv2eJgxzJnlZWZ94NYhRofxxcJzzw==",
+  "dgSpecHash": "ayPhT15hy7km5vJ9A22YRqu+sEkFlPqyuJOtnE/BttZbbqsTzjs36nPE2jz5ysu23/CVfUyxUuOyaXc/AKAekQ==",
   "success": true,
   "projectFilePath": "/Users/dmn/Projects/GoogleMapsInForms/GoogleMapsInForms.iOS/GoogleMapsInForms.iOS.csproj",
   "expectedPackageFiles": [
+    "/Users/dmn/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/dmn/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
-    "/Users/dmn/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
-    "/Users/dmn/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "/Users/dmn/.nuget/packages/xamarin.build.download/0.4.11/xamarin.build.download.0.4.11.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.forms/5.0.0.2083/xamarin.forms.5.0.0.2083.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.forms.googlemaps/3.3.0/xamarin.forms.googlemaps.3.3.0.nupkg.sha512",
+    "/Users/dmn/.nuget/packages/xamarin.google.ios.maps/3.5.0/xamarin.google.ios.maps.3.5.0.nupkg.sha512"
   ],
   "logs": []
 }
